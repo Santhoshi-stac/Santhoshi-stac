@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 - 🔭 Currently contributing to an **Imageless Total Knee Arthroplasty (TKA) System**  
 - 🧩 Interested in **algorithms, data structures, real-time systems, and medical imaging software**  
-- 🤝 Experienced in working with **multidisciplinary teams of surgeons and engineers**  
+- 🤝 Experienced in working with **multidisciplinary teams of engineers**  
 - 🎯 Goal: Deliver innovative software solutions that **improve surgical precision and patient outcomes**  
 
 ---
