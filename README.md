@@ -1,21 +1,21 @@
 # Hi there, I’m Santhoshi 👋
 
 💻 Aspiring Software Developer  
-🌱 Learning C++, Python, and exploring what I can build  
+🌱 Exploring C++, Python, and building real-world applications  
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: **TKA** (You can write what it is: webapp, app, etc.)  
+- 🔭 Currently working on: **TKA** (my ongoing project)  
 - 🌐 Interested in: Algorithms, Data Structures, System Design, Open Source  
-- 🎯 Goal: Build software projects that solve real problems  
-- 📫 Reach me at: [your.email@example.com] | [LinkedIn](https://www.linkedin.com/in/your-profile-if-any)  
+- 🎯 Goal: Build impactful software projects that solve real-world problems  
+- 📫 Reach me at: **santhoshikannan16@gmail.com** | [LinkedIn](https://www.linkedin.com/in/santhoshik16/)  
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** C++, Python, [add others you know]  
-- **Tools & Technologies:** Git, [any framework or library you are using]  
+- **Languages:** C++, Python  
+- **Tools & Technologies:** Git, GitHub  
 - **Other Skills:** Problem Solving, Debugging, Clean Code  
 
 ---
@@ -23,9 +23,7 @@
 ## 📂 Projects
 
 ### 🔹 [TKA](https://github.com/Santhoshi-stac/TKA)  
-Short description: what it does / what you built / what you learned.  
-
-*(Add more projects here when you have them — even small ones are good.)*
+📌 Short description: *(Write 2–3 lines here about what TKA is — e.g., “A project focused on XYZ using Qt/C++/Python. Learned how to manage version control, collaborate, and implement feature XYZ.”)*  
 
 ---
 
