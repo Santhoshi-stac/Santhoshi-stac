@@ -22,22 +22,44 @@
 
 ---
 
-## 📂 Featured Project  
+## 📂 Featured Projects  
 
 ### 🔹 [Imageless Total Knee Arthroplasty (TKA) System](https://github.com/Santhoshi-stac/TKA)  
 > A next-generation surgical navigation platform designed to enhance precision in Total Knee Arthroplasty (TKA) **without reliance on preoperative imaging**.  
 
 **Key Contributions:**  
-- 🖥️ Designed and implemented the **software architecture** using **C++ and Qt framework** for the user interface.  
-- 🎨 Integrated **VTK libraries** for advanced 3D visualization and image processing of medical data.  
-- 🧮 Developed **automatic 3D mesh generation algorithms** (filters, Delaunay-based methods).  
-- ⚙️ Spearheaded development of custom **Python and C++ modules** with Qt/QML visualization for kinematic analysis.  
-- ⚡ Engineered **high-performance 3D reconstruction algorithms**, improving data processing speed by **30%** and reducing preoperative planning time.  
-- 🔧 Implemented **mesh filling methods** for complex 3D geometries, enhancing accuracy in surgical planning.  
-- 📈 Applied **SDLC practices** with Azure DevOps, Git, and CI/CD pipelines to ensure quality and reliability.  
-- 👥 Collaborated with **5–6 multidisciplinary teams** of surgeons and engineers, aligning software with clinical needs for better surgical outcomes.  
+- Implemented the **software architecture** in C++/Qt for a robust UI.  
+- Integrated **VTK libraries** for advanced 3D visualization and image processing.  
+- Developed **automatic 3D mesh generation algorithms** (filters, Delaunay methods).  
+- Built **Python & C++ modules** integrated with Qt/QML for real-time kinematic analysis.  
+- Designed **3D reconstruction algorithms** improving medical imaging data processing speed by **30%**.  
+- Applied **SDLC practices** with Azure DevOps, Git, and CI/CD pipelines.  
+- Collaborated with **surgeons and engineers**, aligning software design with clinical needs.  
 
 ---
+
+### 🔹 Lung Cancer Detection from CT Scans (Python, OpenCV)  
+**SSN College of Engineering | Aug 2022 – May 2024**  
+- Engineered a **semi-automated tumor segmentation system**, achieving **88% accuracy** across 50+ CT scans using advanced morphological filtering.  
+- Demonstrated **3–4 methods** in medical image analysis & computational optimization, enhancing diagnostic efficiency.  
+
+---
+
+### 🔹 EHG Analysis for Prepartum and Postpartum Stages (MATLAB, Python, Soft Computing)  
+**SSN College of Engineering | Oct 2023 – Jan 2024**  
+- Developed a **novel analytical model** on a dataset of 30+ EHG signal recordings, achieving **80% classification accuracy**.  
+- Implemented a **signal processing pipeline** identifying 5+ clinically relevant features, contributing to improved maternal health monitoring.  
+
+## 🏆 Competitions & Achievements  
+
+- **Top 20 – Kaggle “EE-5179 Modern Computer Vision Course Competition”**  
+   Ranked among the top 20 participants with a final model accuracy of **0.249**.  
+   - Implemented **deep learning techniques** (CNNs, Transfer Learning) for image classification.  
+   - Applied **data preprocessing, augmentation, and hyperparameter tuning** to improve performance.  
+   - Benchmarked results against peers, iterating models to consistently outperform baseline solutions.  
+
+---
+
 
 ## 📊 GitHub Analytics  
 ![Santhoshi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshi-stac&show_icons=true&theme=tokyonight)  
