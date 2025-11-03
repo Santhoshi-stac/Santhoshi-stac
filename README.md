@@ -49,7 +49,7 @@
 
 ---
 
-### 🔹 [EHG Analysis for Prepartum and Postpartum Stages](https://github.com/Santhoshi-stac/EHG-Analysis)  
+### 🔹 [EHG Analysis for Prepartum and Postpartum Stages](https://github.com/Santhoshi-stac/EHG-Analysis](https://github.com/Santhoshi-stac/EHG-Analysis-Prepartum-Postpartum)  
 
 
 **SSN College of Engineering | Oct 2023 – Jan 2024**  
