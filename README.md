@@ -25,7 +25,7 @@
 ## 📂 Featured Projects  
 
 ### 🔹 [Imageless Total Knee Arthroplasty (TKA) System](https://github.com/Santhoshi-stac/TKA)  
-📁 **Local Path:** `C:\Users\xyz\Downloads\src_3cut`  
+📁 **Local Path:** `C:\Users\KANNAN R\Downloads\src_3cut`  
 
 > A next-generation surgical navigation platform designed to enhance precision in Total Knee Arthroplasty (TKA) **without reliance on preoperative imaging**.  
 
