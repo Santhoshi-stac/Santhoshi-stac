@@ -25,6 +25,8 @@
 ## 📂 Featured Projects  
 
 ### 🔹 [Imageless Total Knee Arthroplasty (TKA) System](https://github.com/Santhoshi-stac/TKA)  
+📁 **Local Path:** `C:\Users\xyz\Downloads\src_3cut`  
+
 > A next-generation surgical navigation platform designed to enhance precision in Total Knee Arthroplasty (TKA) **without reliance on preoperative imaging**.  
 
 **Key Contributions:**  
@@ -38,17 +40,23 @@
 
 ---
 
-### 🔹 Lung Cancer Detection from CT Scans (Python, OpenCV)  
+### 🔹 [Lung Cancer Detection from CT Scans](https://github.com/Santhoshi-stac/Lung-Cancer-Detection)  
+📁 **Local Path:** `C:\Users\xyz\Projects\LungCancerDetection`  
+
 **SSN College of Engineering | Aug 2022 – May 2024**  
 - Engineered a **semi-automated tumor segmentation system**, achieving **88% accuracy** across 50+ CT scans using advanced morphological filtering.  
 - Demonstrated **3–4 methods** in medical image analysis & computational optimization, enhancing diagnostic efficiency.  
 
 ---
 
-### 🔹 EHG Analysis for Prepartum and Postpartum Stages (MATLAB, Python, Soft Computing)  
+### 🔹 [EHG Analysis for Prepartum and Postpartum Stages](https://github.com/Santhoshi-stac/EHG-Analysis)  
+📁 **Local Path:** `C:\Users\xyz\Projects\EHG_Analysis`  
+
 **SSN College of Engineering | Oct 2023 – Jan 2024**  
 - Developed a **novel analytical model** on a dataset of 30+ EHG signal recordings, achieving **80% classification accuracy**.  
 - Implemented a **signal processing pipeline** identifying 5+ clinically relevant features, contributing to improved maternal health monitoring.  
+
+---
 
 ## 🏆 Competitions & Achievements  
 
@@ -59,7 +67,6 @@
    - Benchmarked results against peers, iterating models to consistently outperform baseline solutions.  
 
 ---
-
 
 ## 📊 GitHub Analytics  
 ![Santhoshi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhoshi-stac&show_icons=true&theme=tokyonight)  
